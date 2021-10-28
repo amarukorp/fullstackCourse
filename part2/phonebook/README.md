@@ -1,4 +1,4 @@
-Used technologies= React, useState, useEffect, Json-server, CSS in react.
+Used technologies= React, useState, useEffect, Json-server, Axios, CSS in react.
 
 
 
