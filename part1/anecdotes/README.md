@@ -1,5 +1,6 @@
 Project created with create-reaact-app.
 Technologies use= useState, React.
+The components are not separeted in different modules.
 
 
 
