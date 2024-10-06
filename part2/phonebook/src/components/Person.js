@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Person = ({ person, handleDelete }) => {
-    // console.log(person)
+    
     return (
 
         <li>
